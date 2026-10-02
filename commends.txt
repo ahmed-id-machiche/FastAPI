@@ -1,0 +1,8 @@
+// to setup an envirement use //
+py -3 -m venv <name>
+//installation //
+pip install fastapi [all]
+// run it 
+uv run fastapi dev
+// reactç-ivate envirenment 
+venv\Scripts\activate
